@@ -1,4 +1,4 @@
-{
+{ 
   "canisters": {
     "dbank": {
       "main": "src/dbank/main.mo",
