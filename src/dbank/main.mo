@@ -1,7 +1,7 @@
 import Debug "mo:base/Debug";
 import Time "mo:base/Time";
 import Float "mo:base/Float";
-
+ 
 actor DBank {
   stable var currentValue: Float = 300;
   currentValue := 300;
